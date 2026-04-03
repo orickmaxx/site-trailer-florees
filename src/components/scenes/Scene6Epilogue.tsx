@@ -57,7 +57,7 @@ export function Scene6Epilogue() {
 
           {/* Footer */}
           <div className="mt-20 md:mt-32 pt-8 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between w-full text-white/20 text-[10px] md:text-xs font-mono gap-3">
-            <span>© 2026 MANU IA</span>
+            <span>© 2026 @orickmax | IG</span>
             <span className="flex items-center gap-2">
               STATUS: <span className="text-emerald-500">ALTA CONVERSÃO</span>
             </span>
